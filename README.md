@@ -16,7 +16,7 @@ You can read my articles on Hashnode 👇
 
 ## 🧠 How the Web Works
 
-- [How a Browser Works](https://tushtml.hashnode.dev/)
+- [How a Browser Works](https://tushhtml.hashnode.dev/)
 
 ---
 
