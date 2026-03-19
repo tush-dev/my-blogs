@@ -55,11 +55,4 @@ This helps me revise concepts and also makes complex topics easier for beginners
 
 ---
 
-## 🤝 Let's Connect
-
-- LinkedIn: [Add your link]
-- GitHub: [Add your profile]
-
----
-
 ⭐ If you find these blogs helpful, feel free to star ⭐ this repo and share your feedback!
