@@ -1,9 +1,15 @@
 # 📚 My Developer Blog Collection
 
-I write blogs to document what I learn while studying Computer Science & Web Development.
-This helps me revise concepts and also help other beginners understand topics simply.
+🚀 I write blogs to document what I learn while studying **Computer Science & Web Development**.  
+This helps me revise concepts and also makes complex topics easier for beginners.
 
-You can read my articles on Hashnode 👇
+👉 I believe in **learning in public** and sharing my journey as I grow into a developer.
+
+---
+
+## ⚙️ Node.js & Backend
+
+- [What Happens Inside Node.js? (Internals, Event Loop & Architecture)](https://nodejs-internals-tush.hashnode.dev/what-cooks-inside-nodejs)
 
 ---
 
@@ -33,6 +39,27 @@ You can read my articles on Hashnode 👇
 
 ---
 
-⭐ I believe in learning in public — documenting my journey as I grow into a developer.
+## 🚀 What I'm Currently Learning
 
-Feel free to connect and share feedback!
+- Node.js Internals  
+- Backend Development  
+- System Design Basics  
+
+---
+
+## 📌 Goals
+
+- Complete #100DaysOfCode 💯  
+- Build strong backend fundamentals  
+- Share knowledge consistently  
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: [Add your link]
+- GitHub: [Add your profile]
+
+---
+
+⭐ If you find these blogs helpful, feel free to star ⭐ this repo and share your feedback!
